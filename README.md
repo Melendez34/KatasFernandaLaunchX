@@ -2,7 +2,7 @@
 
 Katas Realizadas para Lauch X
 
-## Autor: Omar Meléndez López
+### Autor: Omar Meléndez López
 
 ### Contenido:
 
@@ -16,5 +16,4 @@ Katas Realizadas para Lauch X
 - Módulo 7 Estructuras de Control
 - Módulo 8 Administrar datos con Diccionarios
 - Módulo 9 Funciones
-
-
+- Módulo 10 Manejo de Errores
